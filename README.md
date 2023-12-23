@@ -22,6 +22,9 @@ Managing Snake's Length:
 
 if len(snake_List) > Length_of_snake:: Checks if the length of the snake has exceeded the desired length (Length_of_snake).
 del snake_List[0]: If so, removes the first element from snake_List, effectively shortening the snake to maintain the desired length.
+
+
+
 ---------------------------------------------------------------------------------------
 
 
